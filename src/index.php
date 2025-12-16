@@ -1,3 +1,3 @@
 <?php
 echo "<h1>Render funcionando</h1>";
-echo "<p>Hola " . getenv('APP_NAME') . "</p>";
+echo "<p>Hola ander" . getenv('APP_NAME') . "</p>";
